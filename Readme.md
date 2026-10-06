@@ -7,13 +7,40 @@ All assests are mostly in SVG format. PNG format are harder but some may still b
 ## Examples:
 
 ### Badges:-
-<img src="Images\badges\SVG - Version\Android Direct Link Frame.svg" width="100">
-<img src="Images\badges\SVG - Version\Download-File Badge.svg" width="100">
-<img src="Images\badges\SVG - Version\Morphe Badge.svg" width="100">
-<img src="Images\badges\SVG - Version\Testing APK Fail.svg" width="100">
-<img src="Images\badges\SVG - Version\Testing APK Pass.svg" width="100">
+
+<img src="Images\badges\SVG - Version\Android Direct Link Frame.svg" width="470">
+
+Click on the `Copy` button and paste the SVG Badge Directly
+```
+https://raw.githubusercontent.com/junksidetm/assests/d8774837b8c8658389ea37193a77a9a100414bc5/Images/badges/SVG%20-%20Version/Android%20Direct%20Link%20Frame.svg
+```
+<img src="Images\badges\SVG - Version\Download-File Badge.svg" width="470">
+
+Click on the `Copy` button and paste the SVG Badge Directly
+```
+https://raw.githubusercontent.com/junksidetm/assests/d8774837b8c8658389ea37193a77a9a100414bc5/Images/badges/SVG%20-%20Version/Download-File%20Badge.svg
+```
+<img src="Images\badges\SVG - Version\Morphe Badge.svg" width="470">
+
+Click on the `Copy` button and paste the SVG Badge Directly
+```
+https://raw.githubusercontent.com/junksidetm/assests/d8774837b8c8658389ea37193a77a9a100414bc5/Images/badges/SVG%20-%20Version/Morphe%20Badge.svg
+```
+<img src="Images\badges\SVG - Version\Testing APK Fail.svg" width="470">
+
+Click on the `Copy` button and paste the SVG Badge Directly
+```
+https://raw.githubusercontent.com/junksidetm/assests/d8774837b8c8658389ea37193a77a9a100414bc5/Images/badges/SVG%20-%20Version/Testing%20APK%20Fail.svg
+```
+<img src="Images\badges\SVG - Version\Testing APK Pass.svg" width="470">
+
+Click on the `Copy` button and paste the SVG Badge Directly
+```
+https://raw.githubusercontent.com/junksidetm/assests/d8774837b8c8658389ea37193a77a9a100414bc5/Images/badges/SVG%20-%20Version/Testing%20APK%20Pass.svg
+```
 
 The Badges are **Free for personal and commercial use. Modification permitted**
+
 
 ### Logos:-
 <img src="Images\Logos\Android Battery Logo.svg" width="100">
