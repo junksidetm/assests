@@ -1,4 +1,10 @@
-# Assests
+# Assets
+
+<p align="left">
+  <a href="https://github.com/junksidetm/assests"><img src="https://img.shields.io/badge/GitHub-Main-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Main" /></a>
+  <a href="https://codeberg.org/mrdarksidetm/assests"><img src="https://img.shields.io/badge/Codeberg-Mirror-2185d0?style=flat-square&logo=codeberg&logoColor=white" alt="Codeberg Mirror" /></a>
+  <a href="https://gitlab.com/mrdarksidetm/assests"><img src="https://img.shields.io/badge/GitLab-Mirror-fc6d26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab Mirror" /></a>
+</p>
 
 The official repository of Abhijeet Kumar for all the assests/resources that can be used around his repositories. This is just a collection of images, fonts, logo, badges for all brand works the creator needs.
 
@@ -47,5 +53,15 @@ The Badges are **Free for personal and commercial use. Modification permitted**
 <img src="Images\Logos\Wallet - Logo.svg" width="100">
 <img src="Images\Logos\Wasm - Logo.svg" width="100">
 <img src="Images\Logos\Winforge-Logo.svg" width="100">
+
+---
+
+## 🌐 Source Mirrors
+
+- **Main (GitHub)**: [github.com/junksidetm/assests](https://github.com/junksidetm/assests)
+- **Mirror (Codeberg)**: [codeberg.org/mrdarksidetm/assests](https://codeberg.org/mrdarksidetm/assests)
+- **Mirror (GitLab)**: [gitlab.com/mrdarksidetm/assests](https://gitlab.com/mrdarksidetm/assests)
+
+---
 
 <b><sub>© 2026 [Abhijeet Yadav](github.com/junksidetm) All rights reserved. All logos are Copyright Law</sub></b>
