@@ -27,3 +27,10 @@ All notable changes to the `assests` repository are documented in this file in r
 - **Files Modified**:
   - `Version.md`
 - **Status**: 100% (Completed)
+
+## [2026-10-09 19:28:00 IST] - Repository Hygiene & Git Ignore Configuration
+- **Action**: Created `.gitignore` to exclude operating system metadata and temporary binary files.
+- **Files Added**:
+  - `.gitignore`
+  - `Version.md`
+- **Status**: 100% (Completed & Synced)
