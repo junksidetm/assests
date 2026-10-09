@@ -45,6 +45,13 @@ Click on the `Copy` button and paste the SVG Badge Directly
 https://raw.githubusercontent.com/junksidetm/assests/d8774837b8c8658389ea37193a77a9a100414bc5/Images/badges/SVG%20-%20Version/Testing%20APK%20Pass.svg
 ```
 
+<img src="Images/badges/SVG - Version/Website Badge.svg" width="470">
+
+Click on the `Copy` button and paste the SVG Badge Directly
+```
+https://raw.githubusercontent.com/junksidetm/assests/2059cd31ecfc7cd57fab1d30a4baa11810783b48/Images/badges/SVG%20-%20Version/Website%20Badge.svg
+```
+
 The Badges are **Free for personal and commercial use. Modification permitted**
 
 
