@@ -34,3 +34,11 @@ All notable changes to the `assests` repository are documented in this file in r
   - `.gitignore`
   - `Version.md`
 - **Status**: 100% (Completed & Synced)
+
+## [2026-10-10 15:15:00 IST] - Codeium Brand Asset Rebranding & Documentation
+- **Action**: Renamed brand identity assets to Codeium under Darkside Studio, organized SVG/PNG banner and logo suites, and updated ecosystem copyright documentation.
+- **Directories / Files Modified**:
+  - `Images/Codeium/`: Ingested brand banners and logos (SVG & PNG).
+  - `Readme.md`: Updated copyright and ecosystem embed instructions.
+  - `Version.md`: Appended tracking entry.
+- **Status**: 100% (Completed & Synced)
