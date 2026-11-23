@@ -286,3 +286,8 @@ All notable changes to the `assests` repository are documented in this file in r
   - `Images/Logos/Pulse Studio.svg` (Light Mode, #FEF9FF background)
   - `Images/Logos/Pulse Studio - Dark.svg` (Dark Mode, black background)
 - **Status**: 100% (Completed & Verified)
+
+
+## [2026-11-23 18:45:00 IST] - Ingestion of LongShotPdf Brand Logo
+- **Action**: Ingested `Images/Logos/LongShotPdf - Logo.svg` with squircle boundary and full-bleed brand graphics.
+- **Status**: 100% (Completed & Verified)
